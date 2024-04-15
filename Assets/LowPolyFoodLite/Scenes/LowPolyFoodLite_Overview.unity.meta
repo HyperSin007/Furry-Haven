@@ -1,5 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/LowPolyFoodLite/Scenes/LowPolyFoodLite_Overview.unity.meta
 guid: 830555991cbd4ab4ea246bff692685a3
+========
+guid: e2bcd3ed6c8140a43956d3c32f95969f
+folderAsset: yes
+>>>>>>>> Stashed changes:Assets/InvSystem/Scenes.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
