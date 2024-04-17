@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/AddOns.meta
 guid: e2afd667075aab54fac1f74f8faf7ed9
+========
+guid: 11be4687f377e8f4cb2bf4103b4a47cb
+>>>>>>>> Stashed changes:Assets/InvSystem/Scenes.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

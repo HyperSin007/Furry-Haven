@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Animals_FREE.meta
 guid: 19d73a82b3dabec4f91a34f03d06eedd
+========
+guid: fa89daa09a24f094f8506e08356d644f
+>>>>>>>> Stashed changes:Assets/InventoryScene.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
