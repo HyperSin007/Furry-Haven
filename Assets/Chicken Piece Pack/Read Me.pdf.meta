@@ -1,4 +1,12 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Chicken Piece Pack/Read Me.pdf.meta
+guid: d788e5fdcd5aaa646b534c36b2641d0e
+========
+guid: 3294b408d2ae84a4ab6cf9b99f3f1628
+>>>>>>>> Stashed changes:Assets/LowPolyFoodLite/LowPolyFoodLite_2020.3.0_URP_v1.0.unitypackage.meta
+DefaultImporter:
+=======
 <<<<<<<< Updated upstream:Assets/Chicken Piece Pack/Prefab/plate 2.prefab.meta
 guid: e60095969bf31c444bc6b2b27f383b14
 PrefabImporter:
@@ -6,6 +14,7 @@ PrefabImporter:
 guid: d788e5fdcd5aaa646b534c36b2641d0e
 DefaultImporter:
 >>>>>>>> Stashed changes:Assets/Chicken Piece Pack/Read Me.pdf.meta
+>>>>>>> Stashed changes
   externalObjects: {}
   userData: 
   assetBundleName: 
