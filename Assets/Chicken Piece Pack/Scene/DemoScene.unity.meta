@@ -1,10 +1,20 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/Chicken Piece Pack/Scene/DemoScene.unity.meta
 guid: 74ff4502b2eefbe4cb58af1e7e88300c
 ========
 guid: e8d1d59b4af53fb4685894e0972082fc
 >>>>>>>> Stashed changes:Assets/LowPolyFoodLite/LowPolyFoodLite_2020.3.0_HDRP_v1.0.unitypackage.meta
 DefaultImporter:
+=======
+<<<<<<<< Updated upstream:Assets/Chicken Piece Pack/Prefab/chicken leg piece.prefab.meta
+guid: 16acbe5bed5d99944a567da1b7fcb438
+PrefabImporter:
+========
+guid: 74ff4502b2eefbe4cb58af1e7e88300c
+DefaultImporter:
+>>>>>>>> Stashed changes:Assets/Chicken Piece Pack/Scene/DemoScene.unity.meta
+>>>>>>> Stashed changes
   externalObjects: {}
   userData: 
   assetBundleName: 
