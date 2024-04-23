@@ -1,5 +1,10 @@
 fileFormatVersion: 2
-guid: 9fc0d4010bbf28b4594072e72b8655ab
+<<<<<<<< HEAD:Assets/Animals_FREE/Scenes/Overview.unity.meta
+guid: 77d364297a9a9a74387d4b0a7861d589
+========
+guid: e2bcd3ed6c8140a43956d3c32f95969f
+folderAsset: yes
+>>>>>>>> shikder:Assets/InvSystem/Scenes.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
