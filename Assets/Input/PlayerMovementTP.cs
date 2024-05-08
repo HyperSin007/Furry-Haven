@@ -168,7 +168,7 @@ public partial class @PlayerMovementTP: IInputActionCollection2, IDisposable
                     ""name"": """",
                     ""id"": ""f75a47e7-026a-4438-941e-2775c3c954f7"",
                     ""path"": ""<Mouse>/delta"",
-                    ""interactions"": """",
+                    ""interactions"": ""Hold"",
                     ""processors"": """",
                     ""groups"": """",
                     ""action"": ""Look"",
